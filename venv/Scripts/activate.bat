@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\AndyVESPUCE\my-watermark-api\venv
+set VIRTUAL_ENV=C:\Users\SouleyLITIE\Documents\GitHub\back-Sticker\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
